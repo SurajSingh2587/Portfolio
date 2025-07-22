@@ -19,7 +19,8 @@ body{
     height: 100vh;
     overflow-x: hidden;
     background: linear-gradient(to bottom right, navy, black, red);
-
+    background-attachment: fixed;
+    
     color: white;
 }
 
