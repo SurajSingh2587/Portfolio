@@ -246,11 +246,13 @@ span{
 }
 
 .background {
-    position: fixed;
+    position: absolute;
     width: 100vw;
     height: 100vh;
     top: 0;
     left: 0;
+    opacity: 0.3;
+    z-index: -1;
     background: linear-gradient(to bottom right, navy, black, red);
     overflow: hidden;
 }
@@ -475,4 +477,8 @@ span{
     transform-origin: 13vw 17vh;
     box-shadow: 2vmin 0 1.1445109319029876vmin currentColor;
         }
+
+.all {
+  position: relative; /* Needed for absolute positioning of span */
+}
 
