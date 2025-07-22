@@ -240,6 +240,7 @@ span{
             padding: 30px;
             border-radius: 10px;
             box-shadow: 0 0 42px rgba(0,0,0,0.40);
+            filter: blur(10px);
         }
         #h1 {
             color: light-blue;
