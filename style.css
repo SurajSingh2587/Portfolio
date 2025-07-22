@@ -57,7 +57,7 @@ section{
     padding: 5rem 9% 5rem;
 }
 
-.navbar{
+.navbar a{
     padding-right: 20px;
     color: #ffff;
     size: 20px;
