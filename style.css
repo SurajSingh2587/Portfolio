@@ -57,8 +57,9 @@ section{
 }
 
 .navbar{
-    padding-right: 5px;
-    color: white;
+    padding-right: 20px;
+    color: #ffff;
+    size: 20px;
     
 }
 
