@@ -18,7 +18,7 @@ body{
     width: 100%;
     height: 100vh;
     overflow-x: hidden;
-   # background: linear-gradient(to bottom right, navy, black, red);
+    background: linear-gradient(to bottom right, navy, black, red);
 
     color: white;
 }
@@ -238,7 +238,7 @@ span{
             font-size: 16px;
         }
 
-
+/*
 @keyframes move {
     100% {
         transform: translate3d(0, 0, 1px) rotate(360deg);
@@ -478,7 +478,8 @@ span{
     box-shadow: 2vmin 0 1.1445109319029876vmin currentColor;
         }
 
-.all {
+.all { 
   position: relative; /* Needed for absolute positioning of span */
-}
+} */
+
 
