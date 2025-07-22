@@ -18,7 +18,8 @@ body{
     width: 100%;
     height: 100vh;
     overflow-x: hidden;
-    background: linear-gradient(to bottom right, navy, black, red);
+    /*background: linear-gradient(to bottom right, navy, black, red);*/
+    background-image: url(https://www.freepik.com/free-vector/abstract-realistic-technology-particle-background_6929485.htm#fromView=keyword&page=1&position=4&uuid=d42a9fc3-85f2-4b83-8e5f-85d956591cb9&query=Website+Background);
     background-attachment: fixed;
     
     color: white;
