@@ -125,7 +125,6 @@ span{
 }
 
 .btn{
-    position: fixed;
     display: inline-block;
     padding: 1rem 2.8rem;
     background-color: transparent;
@@ -138,7 +137,6 @@ span{
     transition: 0.3s ease;
     cursor: pointer;
     left: 50%;
-    bottom: 20px;
 }
 
 .btn:hover{
