@@ -236,7 +236,8 @@ span{
 
 
  .container {
-            max-width: 800px;
+            max-height: 800px;
+            max-weidth: 400px;
             margin: auto;
             background-color: transparent;
             padding: 30px;
