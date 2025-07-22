@@ -18,7 +18,8 @@ body{
     width: 100%;
     height: 100vh;
     overflow-x: hidden;
-    background-color: black;
+    background: linear-gradient(to right, navy, black, red);
+
     color: white;
 }
 
@@ -181,16 +182,16 @@ span{
         content: "Web Developer";
     }
     21%, 40%{
-        content: "Developer";
+        content: "Python Developer";
     }
     41%, 60%{
         content: "Web Designer";
     }
     61%, 80%{
-        content: "Youtuber";
+        content: "Editor";
     }
     81%, 100%{
-        content: "Script Writer";
+        content: "Game Developer";
     }
 }
 
