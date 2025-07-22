@@ -241,11 +241,9 @@ span{
             background-color: transparent;
             padding: 30px;
             border-radius: 10px;
-            box-shadow: 0 0 42px rgba(0,0,0,0.40);
-     backdrop-filter: blur(8px); /* Blur background behind it */
+            box-shadow: 0 0 99px rgba(0,0,0,0.99);
+     backdrop-filter: blur(10px); /* Blur background behind it */
       display: flex;
-      justify-content: center;
-      align-items: center;
         }
         #h1 {
             color: light-blue;
