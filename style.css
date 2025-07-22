@@ -244,7 +244,7 @@ span{
             border-radius: 10px;
             box-shadow: 0 0 99px rgba(0,0,0,0.99);
      backdrop-filter: blur(10px); /* Blur background behind it */
-      display: flex;
+      display: initial;
         }
         #h1 {
             color: light-blue;
