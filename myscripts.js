@@ -1,6 +1,9 @@
-const menuBtn = document.querySelector('.menu-btn'); // e.g., your hamburger
+// Select the menu button and the navbar
+const menuBtn = document.querySelector('.menu-btn');
 const nav = document.querySelector('nav');
 
+// Add an event listener to the menu button
 menuBtn.addEventListener('click', () => {
-  nav.classList.toggle('active');
+    // Toggle the 'active' class on the navbar
+    nav.classList.toggle('active');
 });
