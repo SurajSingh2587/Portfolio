@@ -242,16 +242,19 @@ span{
             padding: 30px;
             border-radius: 10px;
             box-shadow: 0 0 42px rgba(0,0,0,0.40);
-            filter: blur(10px);
+     backdrop-filter: blur(8px); /* Blur background behind it */
+      display: flex;
+      justify-content: center;
+      align-items: center;
         }
         #h1 {
             color: light-blue;
-            filter: blur(0%);
+            filter: blur(0px);
         }
         .p {
             line-height: 1.6;
             font-size: 16px;
-            filter: blur(0%);
+            filter: blur(0px);
         }
 
 /*
