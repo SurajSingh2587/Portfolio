@@ -237,11 +237,11 @@ span{
 
  .container {
             max-height: 800px;
-            margin: 380vw;
+            margin: auto;
             background-color: transparent;
             padding: 5px;
             border-radius: 10px;
-            box-shadow: 0 0 22px rgba(0,0,0,0.20);
+          /*  box-shadow: 0 0 22px rgba(0,0,0,0.20); */
      backdrop-filter: blur(17px); /* Blur background behind it */
       display: flex;
         }
