@@ -240,9 +240,10 @@ span{
             max-height: 800px; 
             margin: auto;
             background-color: transparent;
-            padding: auto;
+            padding: 350px;
+            padding-bottom: 100px;
             border-radius: 10px;
-          box-shadow: 0 0 99px rgba(0,0,0,0.99); 
+         /* box-shadow: 0 0 99px rgba(0,0,0,0.99); */
      backdrop-filter: blur(17px); /* Blur background behind it */
       display: flex;
         }
