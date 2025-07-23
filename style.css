@@ -18,8 +18,8 @@ body{
     width: auto;
     height: auto;
     overflow-x: hidden;
-    /*background: linear-gradient(to bottom right, navy, black, red);*/
-    background-image: url(https://i.ibb.co/qYdcnKQ5/3450914.jpg);
+    background: linear-gradient(to bottom right, navy, black, red);
+   /* background-image: url(https://i.ibb.co/qYdcnKQ5/3450914.jpg); */
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -235,7 +235,7 @@ span{
 }
 
 
- .container {
+/* .container {
             text-align: center;
             max-height: 800px; 
             margin: auto;
@@ -244,8 +244,8 @@ span{
             border-radius: 10px;
             align-items: center;
             justify-content: center;
-         /* box-shadow: 0 0 99px rgba(0,0,0,0.99); */
-     backdrop-filter: blur(17px); /* Blur background behind it */
+          box-shadow: 0 0 99px rgba(0,0,0,0.99); 
+     backdrop-filter: blur(17px);  
       display: inline-flex;
         }
         #h1 {
@@ -256,8 +256,9 @@ span{
             line-height: 1.6;
             font-size: 16px;
             filter: blur(0px);
-        }
+        } 
 
+*/
 /*
 @keyframes move {
     100% {
